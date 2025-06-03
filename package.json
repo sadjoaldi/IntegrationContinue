@@ -1,0 +1,11 @@
+{
+  "name": "integrationcontinue",
+  "version": "1.0.0",
+  "description": "Launch the app with the following command: `docker-compose -f docker-compose.dev.yml up --build`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
